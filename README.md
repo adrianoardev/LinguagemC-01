@@ -1,8 +1,8 @@
 # Trabalho Linguagem C - Uninter
 ## Análise e Desenvolvimento de Sistemas
 
-
 ## PRÁTICA 01
+
 Escreva um algoritmo em linguagem C que atenda os seguintes requisitos:</br></br>
 ✓ Crie um registro para armazenar o seu Nome de um funcionário e o seu salário.</br>
 ✓ Solicite ao usuário que digite o Nome Completo e o salário.</br>
